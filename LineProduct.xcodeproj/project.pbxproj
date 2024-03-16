@@ -64,6 +64,7 @@
 		A5A5F8FF2BA45C9600AB1388 = {
 			isa = PBXGroup;
 			children = (
+				A5D94F492BA637D000A2D609 /* image */,
 				A5A5F90A2BA45C9600AB1388 /* LineProduct */,
 				A5A5F9092BA45C9600AB1388 /* Products */,
 			);
@@ -204,6 +205,13 @@
 				A5A5F9442BA4A90A00AB1388 /* AddProductViewController.swift */,
 			);
 			path = Controller;
+			sourceTree = "<group>";
+		};
+		A5D94F492BA637D000A2D609 /* image */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = image;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
