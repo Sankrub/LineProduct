@@ -1,4 +1,4 @@
-# LineProduct App README
+# LineProduct
 
 ## Overview
 LineProduct is an e-commerce iOS application designed to showcase and manage a variety of products through an engaging interface. Utilizing a robust API, the app presents product images, prices, titles, descriptions, categories, and ratings to users looking to browse or purchase items. A key feature of this app is the "Add Product" button, paving the way for future enhancements, including the addition of new products to the platform.
