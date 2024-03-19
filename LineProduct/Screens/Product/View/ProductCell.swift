@@ -1,10 +1,3 @@
-//
-//  ProductCell.swift
-//  LineProduct
-//
-//  Created by Navathon Limamapar on 15/3/2567 BE.
-//
-
 import UIKit
 
 class ProductCell: UITableViewCell {

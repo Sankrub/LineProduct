@@ -1,10 +1,3 @@
-//
-//  ProductListViewController.swift
-//  LineProduct
-//
-//  Created by Navathon Limamapar on 15/3/2567 BE.
-//
-
 import UIKit
 
 class ProductListViewController: UIViewController {

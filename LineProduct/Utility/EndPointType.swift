@@ -1,10 +1,3 @@
-//
-//  EndPointType.swift
-//  LineProduct
-//
-//  Created by Navathon Limamapar on 15/3/2567 BE.
-//
-
 import Foundation
 
 enum HTTPMethods: String {
